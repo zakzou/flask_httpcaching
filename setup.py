@@ -10,7 +10,7 @@ setup(
     url='http://github.com/zakzou/flask_httpcaching',
     license='MIT',
     author='zakzou',
-    author_email='your-email@example.com',
+    author_email='zakzou@live.com',
     description='flask http caching',
     long_description=__doc__,
     py_modules=['flask_httpcaching'],
